@@ -1,0 +1,54 @@
+body {
+    min-height: 2000px;
+}
+.jumbotron {
+    padding-top:  4rem;
+    background-color: rgb(19, 242, 242);
+  }
+  
+  .navbar-brand {
+    font-family: "Zain", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  .display-4 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 350;
+  font-style: normal;
+  }
+  .lead {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .col h2{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 350;
+  font-style: normal;
+  }
+
+  .nama {
+   margin-left: 1px;
+   margin-right: 600px;
+  }
+
+  .Email {
+   margin-left: 1px;
+   margin-right: 670px;
+  }
+
+  .Pesan {
+    margin-left: 1px;
+    margin-right: 670px;
+  }
+
+  section {
+    padding-top: 4rem;
+  }
+
+  #projects {
+    background-color: rgb(19, 242, 242)
+  }
+ 
+
+
